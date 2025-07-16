@@ -180,3 +180,15 @@ Retrieves a randomly-generated magic number between 2-10
         "Black Hole": "Cygnus x-1"
     }
     ```
+
+## Testing
+
+There are a few unit tests for the LLM and the game in general, which can be run with the following commands:
+
+```bash
+pytest tests/test_game.py
+```
+
+```bash
+pytest tests/test_llm.py
+```
