@@ -1,13 +1,13 @@
-# genai-mash-game
+# Mash Game
 
-A version of the MASH game using Python, React &amp; Generative AI to let users modify the theme and categories
+A simple version of the MASH game using Python, React &amp; Generative AI to let users modify the theme and categories
 
 ## Quick Start
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/genai-mash-game.git
-cd genai-mash-game
+git clone https://github.com/your-username/mash-game.git
+cd mash-game
 
 # Install python dependencies
 pip install -r requirements.txt
